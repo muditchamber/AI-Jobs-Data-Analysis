@@ -147,6 +147,7 @@ It showcases practical skills in data cleaning, exploratory analysis, Pivot Tabl
 ## 📂 Repository Contents
 
 - **AI_Jobs_Data_Analysis.xlsx** — Complete Excel analysis workbook
+- **[EDA Report](Documentation/EDA_Report.md)** — Detailed exploratory data analysis
 - **Documentation/** — Project documentation
 - **Screenshots/** — Dashboard and analysis previews
 - **README.md** — Project overview and documentation   
